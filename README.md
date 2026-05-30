@@ -1,7 +1,7 @@
 # Federated Learning Framework for Breast Cancer Histopathological Image Classification
 
 ## Project Overview
-This project presents a secure and scalable framework for the automated diagnosis of breast cancer from histopathological slides. By utilizing a **Federated Learning** approach, the system ensures medical data privacy by allowing models to be trained locally at different "nodes" (hospitals) without moving the original sensitive patient data to a central server.
+This project presents a secure and scalable framework for the automated diagnosis of breast cancer from histopathological slides. By utilizing a **Federated Learning** approach, the system ensures medical data privacy by allowing models to be trained locally at different "nodes" (Hospitals) without moving the original sensitive patient data to a central server.
 
 ## Technical Features
 - **User Authentication:** Secure Registration and Login system using SQLite3.
